@@ -23,4 +23,4 @@
 O(n)
 
 
-[Patika] (www.patika.dev)
+[Patika](www.patika.dev)
