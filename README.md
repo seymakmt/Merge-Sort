@@ -21,3 +21,6 @@
 **Big-O gösterimini yazınız.**
 
 O(n)
+
+
+[Patika] (www.patika.dev)
